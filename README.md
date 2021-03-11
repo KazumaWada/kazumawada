@@ -1,4 +1,4 @@
-### ベルリン特化の情報共有サービス 👋
+### ポートフォリオ 👋
 
 <a href="https://github.com/kazumawada/myapp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kazumawada&repo=myapp" />
