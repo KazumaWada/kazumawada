@@ -8,8 +8,7 @@
 
 ### My GitHub stats
 
-![kazumawada's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazumawada&show_icons=true&theme=tokyonight)
-
+![kazumawada's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazumawada&show_icons=true)
 
 <br>
 
