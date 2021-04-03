@@ -1,5 +1,5 @@
 ### [Qiita](https://qiita.com/kazumawada)
-### [ブログ](https://kazumawada.hateblo.jp/)
+### [ブログ](https://kazumawada.hateblo.jp/archive/2021)
 
 ### ポートフォリオ 👋
 
