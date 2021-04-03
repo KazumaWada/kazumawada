@@ -1,3 +1,6 @@
+### [Qiita](https://qiita.com/kazumawada)
+### [ブログ](https://kazumawada.hateblo.jp/)
+
 ### ポートフォリオ 👋
 
 <a href="https://github.com/kazumawada/myapp">
@@ -11,9 +14,5 @@
 ![kazumawada's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazumawada&show_icons=true)
 
 <br>
-
-- [古い技術ブログ](https://kaz34.github.io/)
-- [今の技術ブログ](https://kazumawada.hateblo.jp/)
-- [qiita](https://qiita.com/kazumawada)
 
 
