@@ -1,4 +1,4 @@
-### ・[Qiita](https://qiita.com/kazumawada)
+<!-- ### ・[Qiita](https://qiita.com/kazumawada)
 ### ・[ブログ](https://kazumawada.hateblo.jp/archive/2021)
 
 ### ・ポートフォリオ 👋
@@ -7,7 +7,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kazumawada&repo=myapp" />
 </a>
 <br>
-<br>
+<br> -->
 
 
 ![kazumawada's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazumawada&show_icons=true)
